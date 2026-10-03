@@ -1,0 +1,7 @@
+pandas==2.3.3
+numpy
+scipy
+scikit-learn==1.7.2
+shap==0.52.0
+matplotlib==3.10.6
+jupyter
